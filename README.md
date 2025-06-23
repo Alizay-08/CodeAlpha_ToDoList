@@ -26,8 +26,3 @@ This is a modern and responsive **To-Do List Web Application** created using **H
 
 ---
 <img width="413" alt="image" src="https://github.com/user-attachments/assets/94474376-b5c9-4b8d-9da3-484962af1ea1" />
-
-
-
-_Add your screenshot here_  
-Example:
